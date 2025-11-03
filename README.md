@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=최석순&fontSize=70&fontAlignY=40&desc=Computerized%20Developer&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=mant81's%20Space&fontSize=70&fontAlignY=40&desc=Computerized%20Developer&descAlignY=60&animation=fadeIn)
 
 ---
 
@@ -80,14 +80,36 @@
 
 ---
 
-## 🧾 Certificates
-- 정보처리기사 / 산업기사 / 기능사  
-- 정보보안산업기사  
-- 전자상거래관리사 / 운용사 / EC기술관리사  
-- 사무자동화산업기사 / 정보검색사 2급  
-- 자동차정비·검사·굴삭기·지게차 기능사  
-- 제한무선통신사 / TITQ  
-- KOSA / KICA 기술자 등록
+## 🧾 Certificates & Professional Licenses
+
+### 💻 IT & Software
+<div align="center">
+  <img src="https://img.shields.io/badge/정보처리기사-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/정보처리산업기사-6DB33F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/정보처리기능사-FF9900?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/정보보안산업기사-DB4437?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/전자상거래관리사-4285F4?style=for-the-badge&logo=shoppingcart&logoColor=white" />
+  <img src="https://img.shields.io/badge/전자상거래운용사-0F9D58?style=for-the-badge&logo=shoppingcart&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC기술관리사-F4B400?style=for-the-badge&logo=gear&logoColor=white" />
+  <img src="https://img.shields.io/badge/사무자동화산업기사-FF6D01?style=for-the-badge&logo=office&logoColor=white" />
+  <img src="https://img.shields.io/badge/정보검색사2급-9C27B0?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/TITQ-795548?style=for-the-badge&logo=code&logoColor=white" />
+</div>
+
+### 🏗 Mechanical & Communication
+<div align="center">
+  <img src="https://img.shields.io/badge/자동차정비기능사-FF5722?style=for-the-badge&logo=car&logoColor=white" />
+  <img src="https://img.shields.io/badge/자동차검사기능사-FF9800?style=for-the-badge&logo=car&logoColor=white" />
+  <img src="https://img.shields.io/badge/굴삭기운전기능사-795548?style=for-the-badge&logo=construction&logoColor=white" />
+  <img src="https://img.shields.io/badge/지게차운전기능사-607D8B?style=for-the-badge&logo=truck&logoColor=white" />
+  <img src="https://img.shields.io/badge/제한무선통신사-009688?style=for-the-badge&logo=signal&logoColor=white" />
+</div>
+
+### 🏆 Professional Registration
+<div align="center">
+  <img src="https://img.shields.io/badge/소프트웨어기술자(KOSA)-2196F3?style=for-the-badge&logo=software&logoColor=white" />
+  <img src="https://img.shields.io/badge/정보통신기술자(KICA)-3F51B5?style=for-the-badge&logo=network-wired&logoColor=white" />
+</div>
 
 ---
 
@@ -107,6 +129,15 @@
   </a>
 </div>
 
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mant81&show_icons=true&theme=react&hide_border=true" alt="mant81's GitHub stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mant81&theme=react&hide_border=true" height="160px" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mant81&layout=compact&theme=react&hide_border=true" height="120px" />
+</div>
 
 ---
 
