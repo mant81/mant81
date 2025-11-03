@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=mant81's%20Space&fontSize=70&fontAlignY=40&desc=Computerized%20Developer&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=최석순%20Space&fontSize=70&fontAlignY=40&desc=Computerized%20Developer&descAlignY=60&animation=fadeIn)
 
 ---
 
@@ -91,18 +91,22 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 <div align="center">
-  <a href="mailto:mant@nate.com">
+  <a href="mailto:mant81@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mant81.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
+  <a href="https://blog.naver.com/mantkr">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
   <a href="https://github.com/mant81">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
 
 ---
 
