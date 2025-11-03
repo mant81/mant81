@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=최석순%20Space&fontSize=70&fontAlignY=40&desc=Computerized%20Developer&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=230&section=header&text=최석순&fontSize=70&fontAlignY=40&desc=Computerized%20Developer&descAlignY=60&animation=fadeIn)
 
 ---
 
