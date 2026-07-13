@@ -133,10 +133,10 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mant81&show_icons=true&theme=react&hide_border=true" alt="mant81's GitHub stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mant81&theme=react&hide_border=true" height="160px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mant81&theme=tokyonight" alt="mant81 GitHub stats" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=mant81&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="mant81 GitHub streak" height="160px" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mant81&layout=compact&theme=react&hide_border=true" height="120px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mant81&theme=tokyonight" alt="mant81 repositories by language" height="160px" />
 </div>
 
 ---
