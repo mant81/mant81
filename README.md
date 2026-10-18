@@ -64,7 +64,7 @@ JSP / Servlet · eGovFrame · BXM · Nexcore · Struts · iBatis · Velocity · 
 WebLogic · JEUS · Tomcat · JBoss · WildFly · Nginx
 
 **Security**<br>
-JWT · PKI/GPKI · 개인정보보호 · ISMS-P
+JWT · PKI/GPKI
 
 ## Credentials
 
