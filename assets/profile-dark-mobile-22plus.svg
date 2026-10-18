@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">CHOI SEOK SOON &#183; Development Team Lead with Software Architecture Expertise &#183; 22+ years</title>
+  <desc id="desc">Development team leadership backed by software architecture expertise and 22+ years of development experience.</desc>
+  <rect x="1" y="1" width="598" height="358" rx="24" fill="#102323" stroke="#294139" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="82" fill="#E8F4F0" font-size="48" font-weight="700" letter-spacing="-1.5">CHOI SEOK SOON</text>
+    <text x="40" y="137" fill="#ACC8BF" font-size="32" font-weight="600">Development Team Lead</text>
+    <text x="40" y="177" fill="#ACC8BF" font-size="32">Software Architecture</text>
+    <path d="M40 216H560" stroke="#2D4940" stroke-width="2"/>
+    <text x="40" y="302" fill="#67DDB5" font-size="64" font-weight="600" letter-spacing="-3">22+</text>
+    <text x="164" y="302" fill="#ACC8BF" font-size="32">years</text>
+  </g>
+</svg>
